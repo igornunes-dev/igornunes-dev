@@ -12,7 +12,6 @@
 
 <div align="center">  
 
-  <!-- GitHub Stats -->
   <img
     width="49%"
     height="195px"
@@ -20,7 +19,6 @@
     alt="github stats"
   />
 
-  <!-- Streak Stats -->
   <img
     width="49%"
     height="195px"
@@ -28,7 +26,6 @@
     alt="github stats"
   />
 
-  <!-- Top Langs -->
   <img
     width="41%"
     height="195px"
@@ -51,12 +48,12 @@
 ##### Contatos:
 <div align="left"> <a href="mailto:igornunesle@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> </a> <a href="https://www.linkedin.com/in/igor-nunes-1392782b4/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a> </div>
 
-###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/igornunes-dev/igornunes-dev/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
